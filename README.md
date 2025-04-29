@@ -1,7 +1,8 @@
 # AI Beauty Test: Redefining Beauty in the Digital Age
 
 **Explore [AI Beauty Test](https://aibeautytest.org/): Experience the Future of AI-Powered Beauty Assessments**
-
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/9b5888d4-f72d-42bd-ba6c-b00055382a41" />
+go try [AI Beauty Test](https://aibeautytest.org/)
 In today’s fast-evolving digital world, artificial intelligence is transforming the way we perceive and evaluate beauty. [AI Beauty Test](https://aibeautytest.org/) stands at the forefront of this revolution, offering users an objective, scientific, and data-driven approach to understanding their facial features. Combining advanced facial recognition algorithms with universally recognized beauty standards, this innovative platform delivers precise and insightful beauty ratings within seconds.
 
 ## How AI Beauty Test Works: The Science Behind the Assessment
